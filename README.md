@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/krishnawaghmode/vue-quote/main/src/assets/screenshot.png" width="500">
+
 # vue-quote
 
 ## Project setup
